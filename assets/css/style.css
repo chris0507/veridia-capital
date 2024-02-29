@@ -21,25 +21,6 @@ body {
 .list-style-none {
   list-style: none;
 }
-.border-left-vertical {
-  border-left: 1px solid;
-  margin-left: 10rem;
-  margin-right: 2rem;
-}
-.border-right-vertical {
-  border-right: 1px solid;
-  margin: 2rem;
-}
-.border-right-vertical-second {
-  border-right: 1px solid;
-  margin: 0 2rem;
-}
-.nav-create-account-button {
-  background-color: black;
-  color: white;
-  border-radius: 39px;
-  padding: 10px 20px;
-}
 .fs-15 {
   font-size: 15px;
 }
@@ -76,6 +57,28 @@ body {
 }
 .h-80 {
   height: 80%;
+}
+.border-left-vertical {
+  border-left: 1px solid;
+  margin-left: 10rem;
+  margin-right: 2rem;
+}
+
+.border-right-vertical {
+  border-right: 1px solid;
+  margin: 2rem;
+}
+
+.border-right-vertical-second {
+  border-right: 1px solid;
+  margin: 0 2rem;
+}
+
+.nav-create-account-button {
+  background-color: black;
+  color: white;
+  border-radius: 39px;
+  padding: 10px 20px;
 }
 .content-learn-more-button {
   background-color: black;
